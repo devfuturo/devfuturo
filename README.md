@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving)
 <div align=center> 
   <p>
-  <a href="https://www.notion.so/2f19a0b646a44067bea8dc5a7d3e0d7c"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://www.notion.so/2f19a0b646a44067bea8dc5a7d3e0d7c"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:rmh7290@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rmh7290@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/eonsh11-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   
